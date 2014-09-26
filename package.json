@@ -1,0 +1,27 @@
+{
+  "name": "mbs-direct-digital-api",
+  "description": "Promise-driven accessor for the MBS Direct Digital Services API",
+  "version": "0.0.1",
+  "keywords": [
+    "api",
+    "mbs",
+    "direct digital"
+  ],
+  "homepage": "https://github.com/osufpp/mbs-direct-digital-api",
+  "bugs": {
+    "url": "https://github.com/osufpp/mbs-direct-digital-api/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/dd",
+  "dependencies": {
+    "bluebird": "^2.3.2",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.3",
+    "request": "^2.44.0"
+  }
+}
