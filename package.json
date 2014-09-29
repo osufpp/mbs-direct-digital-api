@@ -1,7 +1,7 @@
 {
   "name": "mbs-direct-digital-api",
   "description": "Promise-driven accessor for the MBS Direct Digital Services API",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "api",
     "mbs",
